@@ -1,0 +1,199 @@
+html,body{
+	margin:0;
+	padding: 0;
+}
+.main{
+	background: darkred;
+	height: 900px;
+	width:900px;
+	margin:0px auto;
+}
+.header{
+	width: 100%;
+	height: 150px;
+	background: darkred;
+}
+.top{
+	width: 100%; 
+	height: 75px
+}
+.logo{
+	 float: left;
+    margin-left: 80px;
+    display: inline-block;
+    margin-top: 10px;
+}
+.Search{
+	width: 300px;
+	height: 35px;
+	background: lightyellow;
+	margin-left: 75px;
+	float: left;
+	display: inline-block;
+	margin-top: 10px;
+}
+.Upload{
+	width: 100px;
+	height: 35px;
+	background: lightyellow;
+	margin-left: 25px;
+	float: left;
+	display: inline-block;
+	margin-top: 10px;
+}
+.Login{
+	width: 150px;
+	height: 35px;
+	background: darkred;
+	margin-left: 25px;
+	float: left;
+	margin-top: 10px;
+}
+.pctr{
+	width: 30px;
+	height: 35px;
+	background: lightyellow;
+}
+.body{
+	width: 100%;
+	height: 1395px;
+	background: darkgray;
+}
+.footer{
+	background:darkred;
+	width: 100%;
+	height: 60px;
+
+}
+.border{
+	width: 725px;
+	background:lightyellow;
+	height: 1px;
+	float:left;
+	margin-top: 15px;
+	margin-left: 80px;
+}
+.bottom >a{
+	float:left;
+	margin-left:20px;
+	margin-top:10px;
+	color:lightyellow;
+}
+.marginTOP{
+	margin-top: 20px;
+}
+.btop{
+	background: darkred;
+	width: 100%;
+	height: 45px;
+
+
+}
+.bmiddle{
+	background: darkred;
+	width: 100%;
+	height: 330px;
+}
+.bbottom{
+	background: darkred;
+	width: 100%;
+	height: 45px;
+	}
+.left{
+	width: 600px;
+	height: 370px;
+	background: darkred;
+	float:left;
+	
+}
+.video{
+	width: 162px;
+	height: 113px;
+	background: lightyellow;
+	float:left;
+	margin-left: 10px;
+}
+.mrgntop{
+	margin-top: 10px;
+}
+.bigdiv{
+	width: 335px;
+	height: 235px;
+	background: lightyellow;
+	float:left;
+	margin-left: 80px;
+	
+}
+.drkred{
+	width: 99%;
+    height: 98%;
+    background: darkred;
+    margin-top: 1px;
+    margin-left: 1px;
+}
+.right{
+	height:370px;
+	width: 300px;
+	background: darkred;
+	float:right;
+}
+.spacer{
+	width: 100%;
+	height: 60px;
+}
+.bordertwo{
+	width: 205px;
+	height: 2px;
+	background: lightyellow;
+
+}
+.log{
+	width: 98%;
+	height: 50px;
+	margin-top: 10px;
+}
+.pctrdv{
+ 	width: 60px;
+ 	height: 40px;
+ 	background: lightyellow;
+ 	display: inline-block;
+}
+.log > a{
+	float:right;
+	color:lightyellow;
+	margin-right: 47px;
+}
+.clearfix{
+	clear: both;
+}
+.spacer{
+	width: 100%;
+	height:60px;
+	background: darkred;
+	float:left;
+}
+.footer{
+	width: 100%;
+	height: 138px;
+	background: darkred;
+}
+.footer > div{
+	width: 30px;
+	height: 35px;
+	background: lightyellow;
+	float:left;
+	margin-left: 5px;
+}
+.footer > a{
+	color:lightyellow;
+	float:left;
+}
+.chnls{
+	width: 130px;
+	height: 98px;
+	background: lightyellow;
+	float: left;
+	margin-left: 10px;
+	margin-top: 25px;
+
+}
